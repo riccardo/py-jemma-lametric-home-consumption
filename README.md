@@ -1,6 +1,6 @@
 # Lametric App
 
-Simple quick'n dirty Python application getting home consumption data from a JEMMA DAL endpoint and posting it to your lametric.
+Simple quick'n dirty Python application getting home consumption data from a JEMMA DAL endpoint and posting it to your [LaMetric device](https://lametric.com/).
 It uses a working instance of [JEMMA](http://jemma.energy-home.org) with attached any metering devices compatible with ZigBee Home Automation / [Energy@home](www.energy-home.it) specifications.
 
 # Quck HowTo
